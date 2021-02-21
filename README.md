@@ -11,7 +11,7 @@
 - The last letters written can be undone independently of the cursor by pressing the undo button.
 
 ##### Installation
-- Clone the repo:
+- Clone the repo:<br>
 `git@github.com:eymiramazan/notepad.git`<br>
 - Open with Intellij.
 
