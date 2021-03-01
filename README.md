@@ -1,6 +1,6 @@
-#Notepad
+# Notepad
 
-### ## Java Notepad Application with Design Patterns
+### Java Notepad Application with Design Patterns
 
 ##### The application has these functions:
 - File opening, closing, saving and creating.
